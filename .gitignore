@@ -1,6 +1,6 @@
 HELP.md
 
-.env
+!/.env
 
 ### STS ###
 .apt_generated
