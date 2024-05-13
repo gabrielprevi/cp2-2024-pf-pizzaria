@@ -2,7 +2,7 @@
 
 CP II - **Java Advanced** aplicado em 29/04/2024.
 
-| ![](documentos/fiap.jpg)                 | **Java Advanced** |
+| ![](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/fiap.jpg)                 | **Java Advanced** |
 |------------------------------------------|-------------------|
 | **ALUNO:**                               | **TURMA:** 2TDSPF |
 | **PROFESSOR:** Benefrancis do Nascimento | 29/04/2024        |
@@ -36,38 +36,38 @@ telas exibidas abaixo:
 
 ## Início
 
-![inicio.png](documentos/layout/inicio.png)
+![inicio.png](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/layout/inicio.png)
 
 ## História
 
-![about.png](documentos/layout/about.png)
+![about.png](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/layout/about.png)
 
 ## Popular
 
-![popular.png](documentos/layout/popular.png)
+![popular.png](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/layout/popular.png)
 
 ## Moda
 
-![recently.png](documentos/layout/recently.png)
+![recently.png](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/layout/recently.png)
 
 ## Cardapio
 
-![cardapio.png](documentos/layout/cardapio.png)
+![cardapio.png](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/layout/cardapio.png)
 
 Nossa equipe de design desenvolveu o layout e nossos Analistas de Sistemas e Arquitetos de Softwre desenvolveram os
 Diagramas de Classes abaixo:
 
 ## Diagrama de Classes de Entidade
 
-![entity.png](documentos/diagrama-classe/entity.png)
+![entity.png](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/diagrama-classe/entity.png)
 
 ## Diagrama de Classes de Request (DTO's)
 
-![DTO.png](documentos/diagrama-classe/request.png)
+![DTO.png](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/diagrama-classe/request.png)
 
 ## Diagrama de Classes de Response (DTO's)
 
-![DTO.png](documentos/diagrama-classe/response.png)
+![DTO.png](../../Downloads/cp2-2024-pf-pizzaria-correcao/cp2-2024-pf-pizzaria-correcao/documentos/diagrama-classe/response.png)
 
 ## Tecnologias utilizadas no projeto
 
